@@ -20,3 +20,7 @@ Parameters:
 	var mapzoom = 10; //map zoomlevel (google zoom level)
 	var $target = $('.jumbotron > .container'); //the container to add the images to.
 ```
+
+example output:
+
+![map output](http://i.imgur.com/5zbXBFg.jpg)
